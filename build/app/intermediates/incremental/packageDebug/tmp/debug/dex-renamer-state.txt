@@ -1,0 +1,4 @@
+#Fri Dec 02 11:34:44 PKT 2022
+base.0=D\:\\Flutter projects\\newAdv\\Advisor-user-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
